@@ -8,7 +8,7 @@ El objetivo es crear una serie de tareas usando arquirectura limpia con Ts
 ```
 PORT = 3000
 
-MAILER_EMAIL = "maundrex@gmail.com"
+MAILER_EMAIL = "algo@gmail.com"
 MAILER_SECRET_KEY = "password"
 PROD = true
 ```
